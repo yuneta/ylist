@@ -23,7 +23,7 @@
 #define NAME        "ylist"
 #define DOC         "List yunos"
 
-#define APP_VERSION     "4.9.5"
+#define APP_VERSION     "4.9.6"
 #define APP_DATETIME    __DATE__ " " __TIME__
 #define APP_SUPPORT     "<niyamaka at yuneta.io>"
 

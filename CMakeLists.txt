@@ -57,7 +57,7 @@ TARGET_LINK_LIBRARIES(ylist
 
     pthread dl  # used by libuv
     lzma        # used by libunwind
-
+    m
 )
 
 ##############################################
